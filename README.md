@@ -3,7 +3,7 @@
 
 # Kubeform Wavefront Provider Code Generator
 
-Generates code for Kubeform Wavefront Provider
+Kubeform code generator for [Terraform Wavefront Provider](https://github.com/vmware/terraform-provider-wavefront)
 
 ## Installation
 
