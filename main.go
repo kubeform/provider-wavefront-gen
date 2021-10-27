@@ -42,6 +42,7 @@ func main() {
 		ProviderNameOriginal: "wavefront",
 		ProviderData:         wavefront.Provider(),
 		ProviderImportPath:   "github.com/vmware/terraform-provider-wavefront/wavefront",
+		ProviderConfig:       "vmware/wavefront",
 		Version:              "v1alpha1",
 		APIsPath:             apisPath,
 		ControllerPath:       controllerPath,
